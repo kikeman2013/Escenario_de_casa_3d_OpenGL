@@ -1,0 +1,11 @@
+i = inicia simuacion
+o = pone pausa a la simulacion
+
+A = Enciende el ventilador del techo por 3 velocidades y con esa misma tecla lo apaga
+
+S = Mueve/Para el jack(ruleta)
+
+F = Enciende el movimiento del ventilador de pedestal
+
+G = Enciende el ventilador de pedestal por 3 velocilades y con esa misma tecla lo apaga
+
